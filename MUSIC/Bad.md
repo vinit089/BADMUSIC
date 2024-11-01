@@ -3,7 +3,7 @@
 
 </h2>
 
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://graph.org/file/9bc9e2c68177b257697ed-68f8cfeb3af6b564a8.jpg)">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif]">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Badhacker98&repo=BADMUSIC&theme=flag-india)
 
