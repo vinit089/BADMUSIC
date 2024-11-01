@@ -1,8 +1,6 @@
 <h2 align="center">
     ─「 ᴛʜᴇ ɢɪɢɢʟᴇs 👻 」─
 
-</h2>
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Badhacker98&repo=BADMUSIC&theme=flag-india)
 
 <img src="https://graph.org/file/9bc9e2c68177b257697ed-68f8cfeb3af6b564a8.jpg">
