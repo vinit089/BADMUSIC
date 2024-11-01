@@ -1,14 +1,14 @@
 <h2 align="center">
-    ─「 ʙᴀᴅ 𝘅 ᴍᴜsɪᴄ 」─
+    ─「 ᴛʜᴇ ɢɪɢɢʟᴇs 👻 」─
 
 </h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://graph.org/file/9bc9e2c68177b257697ed-68f8cfeb3af6b564a8.jpg)">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Badhacker98&repo=BADMUSIC&theme=flag-india)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://graph.org/file/9bc9e2c68177b257697ed-68f8cfeb3af6b564a8.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ʙᴀᴅ+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗕𝗔𝗗)](https://github.com/Badhacker98/BADMUSIC)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+WELCOME+𝚃𝙾+THE+GIGGLES+MUSIC+BOT+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗕𝗔𝗗)](https://github.com/Badhacker98/BADMUSIC)
 
 
 
