@@ -1,7 +1,7 @@
-        「 🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ🦋𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𝐁α∂ 𝐌υи∂α🌸❤️ᥫ᭡፝֟፝֟ 」
+VINIT MEHTA
 </h2>
 
-<p align="center"><a href="https://t.me/II_BAD_BBY_II"><img src="https://graph.org/file/214a0a41f7d75c0f90758.jpg"></a></p>
+<p align="center"><a href="https://t.me/vinit_444"><img src="https://graph.org/file/9bc9e2c68177b257697ed-68f8cfeb3af6b564a8.jpg"></a></p>
 
 
 ❍══════════════════════════❍
