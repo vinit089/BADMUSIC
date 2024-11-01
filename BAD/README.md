@@ -1,4 +1,4 @@
-VINIT MEHTA
+THE GIGGLES MUSIC BOT
 </h2>
 
 <p align="center"><a href="https://t.me/vinit_444"><img src="https://graph.org/file/9bc9e2c68177b257697ed-68f8cfeb3af6b564a8.jpg"></a></p>
