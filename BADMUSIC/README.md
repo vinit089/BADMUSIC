@@ -10,6 +10,7 @@
 
         •━━━━━━━━•••━━━━━━━━•
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=MADE+BYE+BADMUNDA%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=𝐌𝐚𝐝𝐞+𝐁𝐲+𝐕𝐢𝐧𝐢𝐭
+    %E2%9D%A4%EF%B8%8F"> 
 
         •━━━━━━━━•••━━━━━━━━•
