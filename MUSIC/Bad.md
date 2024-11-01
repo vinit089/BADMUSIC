@@ -35,7 +35,7 @@ Tᴇsᴛ ʙᴏᴛ ➣ [ ᴛʜᴇ ɢɪɢɢʟᴇs 👻,](https://t.me/GIGGLES_MUSI
 - - [![Vps](https://img.shields.io/badge/ʙᴀᴅᴍᴜsɪᴄ-ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴠᴘs-blue?style=for-the-badge&logo=vps)](https://github.com/Badhacker98/BADMUSIC/blob/bad/MUSIC/local.md)
     
 ### Contact :
-<a href="https://t.me/vinit_44"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sukhwinderwarval50@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/vinit_444"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinituserbot@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://instagram.com/vinit_ifykyk"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
